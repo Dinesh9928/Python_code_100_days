@@ -5,6 +5,8 @@ print(a)
 print(a.upper())
 print(a.lower())
 print(a.rstrip("!"))
+print(a.lstrip("!"))
+print(a.strip("!"))
 print(a.replace("Harry", "John"))
 print(a.split(" "))
 blogHeading = "introduction tO jS"
